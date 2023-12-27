@@ -1,0 +1,106 @@
+{
+  "language": "English",
+  "@language": {
+    "description": "Currently selected language"
+  },
+  "alertTasksToDoNull": "There are no tasks to do",
+  "@alertTasksToDoNull": {
+    "description": "Information about tasks to do when none are available"
+  },
+  "alertTasksDoneNull": "There are no completed tasks",
+  "@alertTasksDoneNull": {
+    "description": "Information about completed tasks when none are available"
+  },
+  "alertDone": "COMPLETED",
+  "@alertDone": {
+    "description": "Information about task completion"
+  },
+  "alertToDo": "TO DO",
+  "@alertToDo": {
+    "description": "Information about a task to be done"
+  },
+  "buttonAddTask": "ADD TASK",
+  "@buttonAddTask": {
+    "description": "Button to add a task"
+  },
+  "buttonCreateTask": "CREATE",
+  "@buttonCreateTask": {
+    "description": "Button to create a task"
+  },
+  "note": "NOTE",
+  "@note": {
+    "description": "Note"
+  },
+  "title": "TITLE",
+  "@title": {
+    "description": "Title"
+  },
+  "date": "Date",
+  "@date": {
+    "description": "Date"
+  },
+  "time": "Time",
+  "@time": {
+    "description": "Time"
+  },
+  "added": "ADDED",
+  "@added": {
+    "description": "Added"
+  },
+  "taskNotEnded": "Task not ended",
+  "@taskNotEnded": {
+    "description": "Task not ended"
+  },
+  "taskEnded": "Task ended",
+  "@taskEnded": {
+    "description": "Task ended"
+  },
+  "alertDoYouWannaDelete": "Are you sure you want to delete the task?",
+  "@alertDoYouWannaDelete": {
+    "description": "Are you sure you want to delete the task?"
+  },
+  "alertDeleted": "Deleted",
+  "@alertDeleted": {
+    "description": "Deleted"
+  },
+  "yes": "Yes",
+  "@yes": {
+    "description": "Yes"
+  },
+  "no": "No",
+  "@no": {
+    "description": "No"
+  },
+  "deadline": "Deadline ",
+  "@deadline": {
+    "description": "Deadline "
+  },
+  "notIncludedNote": "No added note",
+  "@notIncludedNote": {
+    "description": "No added note"
+  },
+  "taskEnded": "Task completed",
+  "@taskEnded": {
+    "description": "Task completed"
+  },
+  "endedTaskNotExist": "No completed tasks",
+  "@endedTaskNotExist": {
+    "description": "No completed tasks"
+  },
+  "taskEmptyToDo": "No tasks to do",
+  "@taskEmptyToDo": {
+    "description": "No tasks to do"
+  },
+  "error": "An unknown error occurred",
+  "@error": {
+    "description": "An unknown error occurred"
+  },
+  "titleShouldNotBeEmpty": "Title should not be empty",
+  "@titleShouldNotBeEmpty": {
+    "description": "Title should not be empty"
+  },
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Microsoft_To-Do_icon.png/942px-Microsoft_To-Do_icon.png",
+  "@imageUrl": {
+    "description": "Logo URL"
+  }
+}
